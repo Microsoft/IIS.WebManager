@@ -33,7 +33,7 @@
     "es6-promise": "4.0.5",
     "es6-shim": "0.35.3",
     "font-awesome": "4.7.0",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "monaco-editor": "0.15.2",
     "ng2-charts": "1.6.0",
     "popper.js": "1.14.7",
